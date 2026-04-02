@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Ashwin18-Offcl/Functions-Wise-Data/blob/main/Tumbnail.png"
+  <img src="https://github.com/Ashwin18-Offcl/CodeSoft_Artificial_Intelligenece_Task_Project/blob/main/Thumbnail.png"
        width="950"
        alt="Simple Chatbot Banner"/>
 </p>
